@@ -1,0 +1,8 @@
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\obj\Debug\projeto motor 2.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\obj\Debug\projeto motor 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\obj\Debug\projeto motor 2.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\bin\Debug\projeto motor 2.exe.config
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\bin\Debug\projeto motor 2.exe
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\bin\Debug\projeto motor 2.pdb
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\obj\Debug\projeto motor 2.exe
+C:\Users\Caio Santos\source\repos\projeto motor 2\projeto motor 2\obj\Debug\projeto motor 2.pdb
